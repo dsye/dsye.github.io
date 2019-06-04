@@ -5,6 +5,6 @@ numbers=[10,20,30,40,50]
 # for item in numbers:
 #     data.append(item - 10)
 
-# data = [number - 10 for number in numbers]
+data = [number - 10 for number in numbers]
 
 print(data)
