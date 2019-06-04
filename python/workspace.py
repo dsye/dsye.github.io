@@ -6,3 +6,8 @@ doctors = ['Matt Smith', "David Tennent"]
 best_episode= "Blink"
 print("My favorite episode is " + best_episode + ".")
 print("My favorite doctor is " + doctors[1] + ".")
+#
+names=['Brandon','Ethan','Tony']
+results = []
+for names in names:
+    results.append('Hi my name is ' + name')
